@@ -127,3 +127,6 @@ dmypy.json
 
 # zipfile
 *.zip
+*.gl/
+*.sf/
+
